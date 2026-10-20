@@ -1,0 +1,9 @@
+spikingjelly==0.0.0.0.14
+timm==0.5.4
+cupy-cuda12x==13.6.0
+numpy==2.0.2
+scipy==1.13.1
+h5py==3.14.0
+einops==0.8.1
+tensorboard==2.20.0
+Pillow==11.3.0

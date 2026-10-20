@@ -1,0 +1,602 @@
+{
+  "examples/cnn128/train_ablation.py": {
+    "export_sha256": "4b4dda5e6d31d757a3a4c2892fe15732c9efe77f54c8e3297ce5a60c65a0604c",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/train_ablation.py",
+        "snapshot_sha256": "4b4dda5e6d31d757a3a4c2892fe15732c9efe77f54c8e3297ce5a60c65a0604c"
+      }
+    ]
+  },
+  "examples/cnn128/train_transformer.py": {
+    "export_sha256": "778235d2a6d07a03287fe205da64200560c22d49c5bf958352e67fae9bd2fbb1",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/train_transformer.py",
+        "snapshot_sha256": "778235d2a6d07a03287fe205da64200560c22d49c5bf958352e67fae9bd2fbb1"
+      }
+    ]
+  },
+  "examples/cnn128/aligned_glmulti.py": {
+    "export_sha256": "a95e0cf0e8145e2659bf41edc4e7ae117b19dd75be6bba81db150cf14e74be3f",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/aligned_glmulti.py",
+        "snapshot_sha256": "79e20eb0d806af123f5e6bb69a427be5025ddb33f87fa07c40bbe4574f6861a3"
+      }
+    ]
+  },
+  "examples/cnn128/ablation_models.py": {
+    "export_sha256": "033b97c5320e9aa2374f112686cf3b0d0fbed78d04ff543706fa610d415ab4e3",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/ablation_models.py",
+        "snapshot_sha256": "f3b66186dc8e582a7b7cfd040544758f39da8abebcfc9ef5fc34523382e9674c"
+      }
+    ]
+  },
+  "examples/cnn128/ablation_io.py": {
+    "export_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/ablation_io.py",
+        "snapshot_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5"
+      }
+    ]
+  },
+  "examples/cnn128/model.py": {
+    "export_sha256": "d31bfa41b69289a5af5eb1110227c1fb79fa3217c4f9f961a4d3a595a5c0d1ea",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/model.py",
+        "snapshot_sha256": "dc59513171d4b45de01ee378d110c63ef168c8eab012d026958267099d0d4aa9"
+      }
+    ]
+  },
+  "examples/cnn128/autoaugment.py": {
+    "export_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/autoaugment.py",
+        "snapshot_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479"
+      }
+    ]
+  },
+  "examples/cnn128/utils.py": {
+    "export_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/utils.py",
+        "snapshot_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f"
+      }
+    ]
+  },
+  "examples/cnn128/hardvs.py": {
+    "export_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/hardvs.py",
+        "snapshot_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70"
+      }
+    ]
+  },
+  "examples/cnn128/dvs_lip.py": {
+    "export_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/dvs_lip.py",
+        "snapshot_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480"
+      }
+    ]
+  },
+  "examples/cnn128/cnn128_aligned.py": {
+    "export_sha256": "cb6b5db6212730d719963c71c65d553310d0b7a77c4e9a68b4b3bd59c8911dcb",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/cnn128_aligned.py",
+        "snapshot_sha256": "c184dbbe5391bae245d7292d3a1332d39a48cbe6add9ba9f5833ff5a55bc8301"
+      }
+    ]
+  },
+  "spikeDE_dis/__init__.py": {
+    "export_sha256": "151fcfc097d36c4115f87be3e4370d25e577b5a04d9e93910e0ad2bd6fcb82ef",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/__init__.py",
+        "snapshot_sha256": "151fcfc097d36c4115f87be3e4370d25e577b5a04d9e93910e0ad2bd6fcb82ef"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/__init__.py",
+        "snapshot_sha256": "151fcfc097d36c4115f87be3e4370d25e577b5a04d9e93910e0ad2bd6fcb82ef"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/__init__.py",
+        "snapshot_sha256": "151fcfc097d36c4115f87be3e4370d25e577b5a04d9e93910e0ad2bd6fcb82ef"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/__init__.py",
+        "snapshot_sha256": "151fcfc097d36c4115f87be3e4370d25e577b5a04d9e93910e0ad2bd6fcb82ef"
+      }
+    ]
+  },
+  "spikeDE_dis/direct_euler_cupy.py": {
+    "export_sha256": "96073a9ecc007441f7f6a6b68abf80aa2cd4d8644c4c64c427d1893ce529a91c",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/direct_euler_cupy.py",
+        "snapshot_sha256": "96073a9ecc007441f7f6a6b68abf80aa2cd4d8644c4c64c427d1893ce529a91c"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/direct_euler_cupy.py",
+        "snapshot_sha256": "96073a9ecc007441f7f6a6b68abf80aa2cd4d8644c4c64c427d1893ce529a91c"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/direct_euler_cupy.py",
+        "snapshot_sha256": "96073a9ecc007441f7f6a6b68abf80aa2cd4d8644c4c64c427d1893ce529a91c"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/direct_euler_cupy.py",
+        "snapshot_sha256": "96073a9ecc007441f7f6a6b68abf80aa2cd4d8644c4c64c427d1893ce529a91c"
+      }
+    ]
+  },
+  "spikeDE_dis/fde_cupy_kernels_all.py": {
+    "export_sha256": "14fb0ed4ed29bf4db3bb9f7999ea1c68bff38c7cb48e7dbbbb7fa473bae67e63",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/fde_cupy_kernels_all.py",
+        "snapshot_sha256": "14fb0ed4ed29bf4db3bb9f7999ea1c68bff38c7cb48e7dbbbb7fa473bae67e63"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/fde_cupy_kernels_all.py",
+        "snapshot_sha256": "14fb0ed4ed29bf4db3bb9f7999ea1c68bff38c7cb48e7dbbbb7fa473bae67e63"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/fde_cupy_kernels_all.py",
+        "snapshot_sha256": "14fb0ed4ed29bf4db3bb9f7999ea1c68bff38c7cb48e7dbbbb7fa473bae67e63"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/fde_cupy_kernels_all.py",
+        "snapshot_sha256": "14fb0ed4ed29bf4db3bb9f7999ea1c68bff38c7cb48e7dbbbb7fa473bae67e63"
+      }
+    ]
+  },
+  "spikeDE_dis/layer.py": {
+    "export_sha256": "b9e4677e5c6aee12e3272369edbf9a3fc958b0399f8187bd69db4cafc8eb4971",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/layer.py",
+        "snapshot_sha256": "b9e4677e5c6aee12e3272369edbf9a3fc958b0399f8187bd69db4cafc8eb4971"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/layer.py",
+        "snapshot_sha256": "b9e4677e5c6aee12e3272369edbf9a3fc958b0399f8187bd69db4cafc8eb4971"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/layer.py",
+        "snapshot_sha256": "b9e4677e5c6aee12e3272369edbf9a3fc958b0399f8187bd69db4cafc8eb4971"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/layer.py",
+        "snapshot_sha256": "b9e4677e5c6aee12e3272369edbf9a3fc958b0399f8187bd69db4cafc8eb4971"
+      }
+    ]
+  },
+  "spikeDE_dis/neuron.py": {
+    "export_sha256": "39e8d27c26097d681f3b81aed4708da6fbe673113bca4b71d893e5c8542c4558",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/neuron.py",
+        "snapshot_sha256": "39e8d27c26097d681f3b81aed4708da6fbe673113bca4b71d893e5c8542c4558"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/neuron.py",
+        "snapshot_sha256": "39e8d27c26097d681f3b81aed4708da6fbe673113bca4b71d893e5c8542c4558"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/neuron.py",
+        "snapshot_sha256": "39e8d27c26097d681f3b81aed4708da6fbe673113bca4b71d893e5c8542c4558"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/neuron.py",
+        "snapshot_sha256": "39e8d27c26097d681f3b81aed4708da6fbe673113bca4b71d893e5c8542c4558"
+      }
+    ]
+  },
+  "spikeDE_dis/odefunc.py": {
+    "export_sha256": "f5ce87fc010e8bb21d65a715d0b80ad58272a9a758b1e2c99d90b4401eea0c9a",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/odefunc.py",
+        "snapshot_sha256": "f5ce87fc010e8bb21d65a715d0b80ad58272a9a758b1e2c99d90b4401eea0c9a"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/odefunc.py",
+        "snapshot_sha256": "f5ce87fc010e8bb21d65a715d0b80ad58272a9a758b1e2c99d90b4401eea0c9a"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/odefunc.py",
+        "snapshot_sha256": "f5ce87fc010e8bb21d65a715d0b80ad58272a9a758b1e2c99d90b4401eea0c9a"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/odefunc.py",
+        "snapshot_sha256": "f5ce87fc010e8bb21d65a715d0b80ad58272a9a758b1e2c99d90b4401eea0c9a"
+      }
+    ]
+  },
+  "spikeDE_dis/snn.py": {
+    "export_sha256": "db450c9d4669c176bfeef0344b316efff1be304cbff9597ce3198024ac04514b",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/snn.py",
+        "snapshot_sha256": "db450c9d4669c176bfeef0344b316efff1be304cbff9597ce3198024ac04514b"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/snn.py",
+        "snapshot_sha256": "db450c9d4669c176bfeef0344b316efff1be304cbff9597ce3198024ac04514b"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/snn.py",
+        "snapshot_sha256": "db450c9d4669c176bfeef0344b316efff1be304cbff9597ce3198024ac04514b"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/snn.py",
+        "snapshot_sha256": "db450c9d4669c176bfeef0344b316efff1be304cbff9597ce3198024ac04514b"
+      }
+    ]
+  },
+  "spikeDE_dis/solver.py": {
+    "export_sha256": "a6bcd150cc1c1ff69332f7465e2e826afef8ab63572bcea3c350cd3f66c08004",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/solver.py",
+        "snapshot_sha256": "a6bcd150cc1c1ff69332f7465e2e826afef8ab63572bcea3c350cd3f66c08004"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/solver.py",
+        "snapshot_sha256": "a6bcd150cc1c1ff69332f7465e2e826afef8ab63572bcea3c350cd3f66c08004"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/solver.py",
+        "snapshot_sha256": "a6bcd150cc1c1ff69332f7465e2e826afef8ab63572bcea3c350cd3f66c08004"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/solver.py",
+        "snapshot_sha256": "a6bcd150cc1c1ff69332f7465e2e826afef8ab63572bcea3c350cd3f66c08004"
+      }
+    ]
+  },
+  "spikeDE_dis/step_layer.py": {
+    "export_sha256": "34cafc83887ee6432ee7c5659b0da12edbf86c13ae1aa6867b805ce6098e5399",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/step_layer.py",
+        "snapshot_sha256": "34cafc83887ee6432ee7c5659b0da12edbf86c13ae1aa6867b805ce6098e5399"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/step_layer.py",
+        "snapshot_sha256": "34cafc83887ee6432ee7c5659b0da12edbf86c13ae1aa6867b805ce6098e5399"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/step_layer.py",
+        "snapshot_sha256": "34cafc83887ee6432ee7c5659b0da12edbf86c13ae1aa6867b805ce6098e5399"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/step_layer.py",
+        "snapshot_sha256": "34cafc83887ee6432ee7c5659b0da12edbf86c13ae1aa6867b805ce6098e5399"
+      }
+    ]
+  },
+  "spikeDE_dis/surrogate.py": {
+    "export_sha256": "1fe2441a31547eb4cb5745202a31295fce5195d49d522a10e19d31f279ae0cbe",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/surrogate.py",
+        "snapshot_sha256": "1fe2441a31547eb4cb5745202a31295fce5195d49d522a10e19d31f279ae0cbe"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/surrogate.py",
+        "snapshot_sha256": "1fe2441a31547eb4cb5745202a31295fce5195d49d522a10e19d31f279ae0cbe"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/surrogate.py",
+        "snapshot_sha256": "1fe2441a31547eb4cb5745202a31295fce5195d49d522a10e19d31f279ae0cbe"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/surrogate.py",
+        "snapshot_sha256": "1fe2441a31547eb4cb5745202a31295fce5195d49d522a10e19d31f279ae0cbe"
+      }
+    ]
+  },
+  "spikeDE_dis/utils.py": {
+    "export_sha256": "03431f25e96e15bd468a37b4c3a38c58a4c381bcb8f192d0d392ea8ba3276af4",
+    "snapshot_sources": [
+      {
+        "path": "examples/cnn128/spikeDE_dis2/utils.py",
+        "snapshot_sha256": "03431f25e96e15bd468a37b4c3a38c58a4c381bcb8f192d0d392ea8ba3276af4"
+      },
+      {
+        "path": "examples/spikformer_har_lip/spikeDE_dis2/utils.py",
+        "snapshot_sha256": "03431f25e96e15bd468a37b4c3a38c58a4c381bcb8f192d0d392ea8ba3276af4"
+      },
+      {
+        "path": "examples/spikformer_gesture/spikeDE_dis2/utils.py",
+        "snapshot_sha256": "03431f25e96e15bd468a37b4c3a38c58a4c381bcb8f192d0d392ea8ba3276af4"
+      },
+      {
+        "path": "examples/spikformer_n101/spikeDE_dis2/utils.py",
+        "snapshot_sha256": "03431f25e96e15bd468a37b4c3a38c58a4c381bcb8f192d0d392ea8ba3276af4"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/train_ablation.py": {
+    "export_sha256": "d4cb6f00b37348767191a6de612ad9458f0c110916fb5f4a428ed9303cceeb81",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/train_ablation.py",
+        "snapshot_sha256": "d4cb6f00b37348767191a6de612ad9458f0c110916fb5f4a428ed9303cceeb81"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/train_transformer.py": {
+    "export_sha256": "721fcd2b27293bed9275bdab07ffb833f9002010f4586a6ebd3015958b77ac59",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/train_transformer.py",
+        "snapshot_sha256": "721fcd2b27293bed9275bdab07ffb833f9002010f4586a6ebd3015958b77ac59"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/aligned_glmulti.py": {
+    "export_sha256": "a95e0cf0e8145e2659bf41edc4e7ae117b19dd75be6bba81db150cf14e74be3f",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/aligned_glmulti.py",
+        "snapshot_sha256": "79e20eb0d806af123f5e6bb69a427be5025ddb33f87fa07c40bbe4574f6861a3"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/ablation_models.py": {
+    "export_sha256": "033b97c5320e9aa2374f112686cf3b0d0fbed78d04ff543706fa610d415ab4e3",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/ablation_models.py",
+        "snapshot_sha256": "f3b66186dc8e582a7b7cfd040544758f39da8abebcfc9ef5fc34523382e9674c"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/ablation_io.py": {
+    "export_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/ablation_io.py",
+        "snapshot_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/model.py": {
+    "export_sha256": "d31bfa41b69289a5af5eb1110227c1fb79fa3217c4f9f961a4d3a595a5c0d1ea",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/model.py",
+        "snapshot_sha256": "dc59513171d4b45de01ee378d110c63ef168c8eab012d026958267099d0d4aa9"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/autoaugment.py": {
+    "export_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/autoaugment.py",
+        "snapshot_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/utils.py": {
+    "export_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/utils.py",
+        "snapshot_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/hardvs.py": {
+    "export_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/hardvs.py",
+        "snapshot_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70"
+      }
+    ]
+  },
+  "examples/spikformer_har_lip/dvs_lip.py": {
+    "export_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_har_lip/dvs_lip.py",
+        "snapshot_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/train_ablation.py": {
+    "export_sha256": "1deb77436df9335c0422e026a21f1aa36764a769c6ee1d227e8a2b761e200f73",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/train_ablation.py",
+        "snapshot_sha256": "1deb77436df9335c0422e026a21f1aa36764a769c6ee1d227e8a2b761e200f73"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/train_transformer.py": {
+    "export_sha256": "5e94ae72aeb500be1a594fe6296824d157d7a3e17b8e10db39c5289dbbc4024e",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/train_transformer.py",
+        "snapshot_sha256": "5e94ae72aeb500be1a594fe6296824d157d7a3e17b8e10db39c5289dbbc4024e"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/aligned_glmulti.py": {
+    "export_sha256": "a95e0cf0e8145e2659bf41edc4e7ae117b19dd75be6bba81db150cf14e74be3f",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/aligned_glmulti.py",
+        "snapshot_sha256": "79e20eb0d806af123f5e6bb69a427be5025ddb33f87fa07c40bbe4574f6861a3"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/ablation_models.py": {
+    "export_sha256": "033b97c5320e9aa2374f112686cf3b0d0fbed78d04ff543706fa610d415ab4e3",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/ablation_models.py",
+        "snapshot_sha256": "f3b66186dc8e582a7b7cfd040544758f39da8abebcfc9ef5fc34523382e9674c"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/ablation_io.py": {
+    "export_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/ablation_io.py",
+        "snapshot_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/model.py": {
+    "export_sha256": "d31bfa41b69289a5af5eb1110227c1fb79fa3217c4f9f961a4d3a595a5c0d1ea",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/model.py",
+        "snapshot_sha256": "dc59513171d4b45de01ee378d110c63ef168c8eab012d026958267099d0d4aa9"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/autoaugment.py": {
+    "export_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/autoaugment.py",
+        "snapshot_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/utils.py": {
+    "export_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/utils.py",
+        "snapshot_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/hardvs.py": {
+    "export_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/hardvs.py",
+        "snapshot_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70"
+      }
+    ]
+  },
+  "examples/spikformer_gesture/dvs_lip.py": {
+    "export_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_gesture/dvs_lip.py",
+        "snapshot_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480"
+      }
+    ]
+  },
+  "examples/spikformer_n101/train_ablation.py": {
+    "export_sha256": "b96872b167cecbc485a02b68f5114d0d59aa241ad8e529435de4131976ec34f8",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/train_ablation.py",
+        "snapshot_sha256": "b96872b167cecbc485a02b68f5114d0d59aa241ad8e529435de4131976ec34f8"
+      }
+    ]
+  },
+  "examples/spikformer_n101/train_transformer.py": {
+    "export_sha256": "24e4cad06a210f510f535449c6a210e68a7a95f36823b895c3568bf84cc018d1",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/train_transformer.py",
+        "snapshot_sha256": "24e4cad06a210f510f535449c6a210e68a7a95f36823b895c3568bf84cc018d1"
+      }
+    ]
+  },
+  "examples/spikformer_n101/aligned_glmulti.py": {
+    "export_sha256": "6d0ed797ba137df743006d5a89f1b3d8954e525fb5cf4b25ed5864a06713f175",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/aligned_glmulti.py",
+        "snapshot_sha256": "ca0b4ba90889539c7e1a86d59cfc25559e2b62d57046144926e80504f828c353"
+      }
+    ]
+  },
+  "examples/spikformer_n101/ablation_models.py": {
+    "export_sha256": "033b97c5320e9aa2374f112686cf3b0d0fbed78d04ff543706fa610d415ab4e3",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/ablation_models.py",
+        "snapshot_sha256": "f3b66186dc8e582a7b7cfd040544758f39da8abebcfc9ef5fc34523382e9674c"
+      }
+    ]
+  },
+  "examples/spikformer_n101/ablation_io.py": {
+    "export_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/ablation_io.py",
+        "snapshot_sha256": "407ba624d395c5288d4b2a8491a11391533f1547b856b475bcfa45ced6d1a4a5"
+      }
+    ]
+  },
+  "examples/spikformer_n101/model.py": {
+    "export_sha256": "d31bfa41b69289a5af5eb1110227c1fb79fa3217c4f9f961a4d3a595a5c0d1ea",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/model.py",
+        "snapshot_sha256": "dc59513171d4b45de01ee378d110c63ef168c8eab012d026958267099d0d4aa9"
+      }
+    ]
+  },
+  "examples/spikformer_n101/autoaugment.py": {
+    "export_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/autoaugment.py",
+        "snapshot_sha256": "4fde2432b521a0bfa5b3098142677e7c99d0cebaa0471206f12d1290a81f7479"
+      }
+    ]
+  },
+  "examples/spikformer_n101/utils.py": {
+    "export_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/utils.py",
+        "snapshot_sha256": "be64d672474dc1493af5b761dcb6ff2a13aec27a698375cb9870d6bd29fece6f"
+      }
+    ]
+  },
+  "examples/spikformer_n101/hardvs.py": {
+    "export_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/hardvs.py",
+        "snapshot_sha256": "5b59b98b2213fa4af327a3850591c39072dd03995f1225065c58262247e6db70"
+      }
+    ]
+  },
+  "examples/spikformer_n101/dvs_lip.py": {
+    "export_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480",
+    "snapshot_sources": [
+      {
+        "path": "examples/spikformer_n101/dvs_lip.py",
+        "snapshot_sha256": "564378ed87cd77a28c9c042d25187b6abeb07e0930a57cea4f940751d33af480"
+      }
+    ]
+  }
+}
