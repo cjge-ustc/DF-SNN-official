@@ -34,13 +34,13 @@ The supplied configurations use CuPy full-history `LIFNeuronFDE` and shared, unn
 ### 1. Clone and Create the Environment
 
 ```bash
-git clone git@github.com:cjge-ustc/DF-SNN.git
-cd DF-SNN
+git clone https://github.com/cjge-ustc/DF-SNN-public.git
+cd DF-SNN-public
 conda create -n df-snn python=3.9 -y
 conda activate df-snn
 ```
 
-This repository is private. Cloning requires access to the repository and a GitHub SSH key configured on the machine. Alternatively, use GitHub's **Code > Download ZIP**, extract it, and enter the extracted directory.
+Alternatively, use GitHub's **Code > Download ZIP**, extract it, and enter the extracted directory.
 
 ### 2. Install Dependencies
 
