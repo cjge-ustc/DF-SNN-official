@@ -34,8 +34,8 @@ The supplied configurations use CuPy full-history `LIFNeuronFDE` and shared, unn
 ### 1. Clone and Create the Environment
 
 ```bash
-git clone https://github.com/cjge-ustc/DF-SNN-public.git
-cd DF-SNN-public
+git clone https://github.com/cjge-ustc/DF-SNN-official.git
+cd DF-SNN-official
 conda create -n df-snn python=3.9 -y
 conda activate df-snn
 ```
